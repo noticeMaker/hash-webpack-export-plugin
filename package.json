@@ -1,0 +1,14 @@
+{
+  "name": "hash-webpack-export-plugin",
+  "version": "1.0.1",
+  "description": "webpack hash export plugin",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wangxiaoqing",
+  "license": "MIT"
+}
